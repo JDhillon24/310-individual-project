@@ -45,6 +45,6 @@ If all the above items cannot be done. Say sorry to the user.
 
 **Here is a list of changes following the individual project.**
 
-- Utilized Wikipedia API in a new feature to the chatbot. This new feature asks the user if there is anything they want to learn about. Then, the user inputs a topic and a brief summary of the topic is returned (run pip install wikipediaapi before testing).
+- Utilized Wikipedia API in a new feature to the chatbot. This new feature asks the user if there is anything they want to learn about. Then, the user inputs a topic and a brief summary of the topic is returned (run pip3 install wikipedia-api before testing).
 -  Utilized Google Translate API in a new feature to the chatbot. This new feature asks the user what languages they want to translate to and from, and what phrase/word they want to translate. After the user has inputted the required information, the text before and after translation is returned (run pip install googletrans==4.0.0-rc1 before testing).
 
